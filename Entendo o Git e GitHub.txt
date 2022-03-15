@@ -1,0 +1,50 @@
+-------------------------------------------- RESUMÃO GIT E GITHUB ---------------------------------------------
+
+O QUE É O GITHUB? 
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Com ele
+podemos contribuir para qualquer projeto de qualquer lugar do mundo. 
+
+O QUE É O GIT? 
+o Git é um sistema de controle de versão de arquivos de forma destribuída.
+
+PARA QUE SERVE O GIT? 
+O Git serve para desenvolver projetos em que pessoas de qualquer lugar do mundo possam contribuir simulta-
+neamente, editando e criando novos arquivos. 
+
+O QUE É O SHA1 NO GIT? 
+O SHA1 é uma função de dispersão criptográfica projetada pela NSA, ele produz uma chave de 40 cacteretes 
+para qualquer arquivo de sua escolha. Muito ultilizado para segurança de seus projetos. O comando para a-
+brir o SHA1 é : openssl Sha1 (nome do arquivo).
+
+QUAIS SÃO OS OBJETOS INTERNOS DO GIT?
+O git possui vários objetos, sendo o primeiro objeto as Blobs (Armazenam arquivos), o segundo objeto são as
+tree (Armazenam Blobs e Tree), o terceiro objeto são os commit (É Objeto mais importante, armazenam Blobs, 
+Tree e o último commit salvo, que é o seu parente!). 
+
+PARA QUE SERVE A CHAVE SSH E TOKEN? 
+Eles servem para manter uma conexão segura em 2 pcs.
+
+O QUE É O GITHUB? 
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Com ele
+podemos contribuir para qualquer projeto de qualquer lugar do mundo. 
+
+COMANDOS DOS GIT: 
+openssl sha1 (nome do arquivo) ---> Abrir o SHA1
+ls ---> Listar no git bash
+ls -a ---> Mostra flags ocultas 
+git clone ---> copia um repositório do git existente em um novo diretório local 
+git init ---> Inicializa um repositorio
+git add ---> Moveu o arquivo para staged 
+git commit -m "" ---> Gera um commit com um código identificador único
+git status ---> Vai dizer os status dos arquivos 
+git add * ---> Pega tudo que foi modificado e add a staged 
+git push origin (branche) ---> empurra seu código para um repositorio remoto
+
+[QUALQUER CORREÇÃO É BEM VINDA! <3 (:]
+
+
+
+
+
+
+
