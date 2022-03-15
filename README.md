@@ -32,7 +32,7 @@ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle 
 podemos contribuir para qualquer projeto de qualquer lugar do mundo. 
 
 COMANDOS DOS GIT: 
-openssl sha1 (nome do arquivo) ---> Abrir o SHA1/>
+<openssl sha1 (nome do arquivo) ---> Abrir o SHA1/>
 ls ---> Listar no git bash
 ls -a ---> Mostra flags ocultas 
 git clone ---> copia um repositório do git existente em um novo diretório local 
