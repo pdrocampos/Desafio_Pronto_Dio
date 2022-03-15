@@ -37,12 +37,19 @@ COMANDOS DOS GIT:
 ls ---> Listar no git bash
 
 ls -a ---> Mostra flags ocultas 
+
 git clone ---> copia um repositório do git existente em um novo diretório local 
+
 git init ---> Inicializa um repositorio
+
 git add ---> Moveu o arquivo para staged 
+
 git commit -m "" ---> Gera um commit com um código identificador único
+
 git status ---> Vai dizer os status dos arquivos 
+
 git add * ---> Pega tudo que foi modificado e add a staged 
+
 git push origin (branche) ---> empurra seu código para um repositorio remoto
 
 [QUALQUER CORREÇÃO É BEM VINDA! <3 (:]
